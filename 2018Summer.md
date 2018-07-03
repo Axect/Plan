@@ -24,8 +24,9 @@
 
 Status | Title | Author
 :--: | :--: | :--:
+Main | Machine Learning: An Algorithmic Perspective | Marshland, Stephen
 Main | Machine Learning with R | Abhijit Ghatak
-Main | A Probabilistic Theory of Pattern Recognition | Luc Devroye et al.
+Private | A Probabilistic Theory of Pattern Recognition | Luc Devroye et al.
 Ref | An Introduction to Statistical Learning with Applications in R | Gareth James et al.
 
 ### 2) Weekly Schedule
@@ -34,6 +35,7 @@ Week | Book | Chapters | Pages
 :--: | :--: | :--: | :--:
 6/25 - 7/1 | PTP | Chap 3,4,5 (ADM & LDA & kNN) | 21 ~ 83
  ˝  | MLR | Chap 1,2 (Basic Mathematics & Probability) | 1 ~ 56
+ ˝  | MLAAP | Chap 1,2 (Intro & Preliminaries) | 1 ~ 38
 7/2 - 7/8 | PTP | Chap 6,7,8,9 (Consistency ~ Regular Histogram) | 91 ~ 129
  ˝  | MLR | Chap 3 (Introduction to ML) | 57 ~ 78
 7/9 - 7/15 | PTP | Chap 10,11 (Kernel Rule & kNN Rule) | 147 ~ 181
